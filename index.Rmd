@@ -52,6 +52,7 @@ Hello, I'm Nate - a linguistics PhD student at Rutgers University. I'm originall
 ### Presentations
 
 <ul>
+<li> Koser, Nate and Adam Jardine (2019). <i>Stress assignment and subsequentiality</i> AMP 2019. Stony Brook University. [slides](files/amp2019slides.pdf)
 <li> Koser, Nate (2019). <i>Creaky voice in Yoruba.</i> RULing XIV. Rutgers University. [slides](files/ruling19.pdf)
 <li> Koser, Nate and Adam Jardine (2019). <i>The complexity of optimizing over strictly local constraints</i>. PLC 43. [slides](files/plcslides.pdf)
 <li> Koser, Nate and Adam Jardine (2018). <i>Strictly local patterns are closed under optimization.</i> NecPhon 2018. [slides](files/necphonslides.pdf)
