@@ -14,8 +14,8 @@ output:
 #  - \usepackage{tipa}
 
 ---
-
  <img align= "top,right",  src="pic.jpg", width=200px>
+
 
 <style>
     body .main-container {
@@ -32,6 +32,7 @@ Department of Linguistics, Rutgers University
 nate.koser@rutgers.edu
 <br>
 [CV](files/cv.pdf)
+
 
 
 
