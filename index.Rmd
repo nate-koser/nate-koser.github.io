@@ -59,7 +59,6 @@ Hello, I'm Nate - a linguistics PhD student at Rutgers University. I'm originall
 
 ### Presentations
 
-Dolatian, Hossep, Nate Koser, Jonathan Rawski, and Kristina Strother-Garcia. (2021).Computational restrictions on iterative prosodic processes.Annual Meeting on Phonol-ogy 2020.
 
 <ul>
 <li> Dolatian, Hossep, Nate Koser, Jonathan Rawski, and Kristina Strother-Garcia (2021). <i>Computational restrictions on iterative prosodic processes.</i> Annual Meeting on Phonology 2020. [abstract,](files/amp2020abstract.pdf) [poster](files/amp2020poster.pdf) 
