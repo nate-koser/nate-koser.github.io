@@ -44,30 +44,49 @@ Hello, I'm Nate - a linguistics PhD student at Rutgers University. I'm originall
 ### Papers
 
 <ul>
+<li> Dolatian, Hossep, Nate Koser, Jonathan Rawski, and Kristina Strother-Garcia (2021). <i>Computational restrictions on iterative prosodic processes.</i> Annual Meeting on Phonology 2020. [pdf](files/amp2020proceedings.pdf)
+
 <li> Koser, Nate and Adam Jardine (2020). <i>The computational nature of stress assignment.</i> Proceedings of AMP 2019. Stony Brook University. [pdf](files/amp2019proc.pdf) 
+
 <li> Koser, Nate and Adam Jardine (2019). <i>The complexity of optimizing over strictly local constraints</i>. Proceedings of PLC 43. [pdf](files/plc2019proc.pdf) 
+
 <li> Koser, Nate, Chris Oakden and Adam Jardine (2019). <i>Tone association and output locality in non-linear structures.</i> Supplemental proceedings of AMP 2018. [pdf](files/amp2018proceed.pdf) 
+
 <li>Koser, Nate. <i>Acoustic correlates of creaky voice in Yoruba</i>. Ms., Rutgers University. [pdf](files/qp2.pdf)
+
 <li>Koser, Nate. <i>A constraint definition language and consequences for stress assignment.</i>. Ms., Rutgers University. [pdf](files/qp1.pdf)
 </ul>
 
 ### Presentations
 
+Dolatian, Hossep, Nate Koser, Jonathan Rawski, and Kristina Strother-Garcia. (2021).Computational restrictions on iterative prosodic processes.Annual Meeting on Phonol-ogy 2020.
+
 <ul>
+<li> Dolatian, Hossep, Nate Koser, Jonathan Rawski, and Kristina Strother-Garcia (2021). <i>Computational restrictions on iterative prosodic processes.</i> Annual Meeting on Phonology 2020. [abstract,](files/amp2020abstract.pdf) [poster](files/amp2020poster.pdf) 
+
 <li> Koser, Nate (2020). <i>Bounded lookahead in iterative quantity-insensitive stress assignment</i> RULing XV. Rutgers University. [slides](files/ruling20.pdf)
+
 <li> Koser, Nate and Adam Jardine (2019). <i>Stress assignment and subsequentiality</i> AMP 2019. Stony Brook University. [slides](files/amp2019slides.pdf)
+
 <li> Koser, Nate (2019). <i>Creaky voice in Yoruba.</i> RULing XIV. Rutgers University. [slides](files/ruling19.pdf)
+
 <li> Koser, Nate and Adam Jardine (2019). <i>The complexity of optimizing over strictly local constraints</i>. PLC 43. [slides](files/plcslides.pdf)
+
 <li> Koser, Nate and Adam Jardine (2018). <i>Strictly local patterns are closed under optimization.</i> NecPhon 2018. [slides](files/necphonslides.pdf)
+
 <li> Koser, Nate (2018). <i>A constraint definition language and consequences for stress assignment.</i> RULing XIII. Rutgers University. [slides](files/ruling18slides.pdf)
-<li> Koser, Nate, Chris Oakden and Adam Jardine (2018). <i>Tone association and output locality in non-linear structures.</i> AMP 2018. [abstract](files/amp2018.pdf) [poster](files/amp2018poster.pdf) 
+
+<li> Koser, Nate, Chris Oakden and Adam Jardine (2018). <i>Tone association and output locality in non-linear structures.</i> AMP 2018. [abstract,](files/amp2018.pdf) [poster](files/amp2018poster.pdf) 
 </ul>
 
 ### Teaching
 
 <ul>
-<li>Fall '18 - Ling201: Intro to Linguistic Theory
+<li>Spring '20 - Eng101: Expository Writing (2 sections)
+
 <li>Spring '19 - Ling201: Intro to Linguistic Theory
+
+<li>Fall '18 - Ling201: Intro to Linguistic Theory
 </ul>
 
 
