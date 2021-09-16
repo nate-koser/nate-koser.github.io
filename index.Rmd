@@ -81,11 +81,11 @@ Hello, I'm Nate - a linguistics PhD student at Rutgers University. I'm originall
 ### Teaching
 
 <ul>
-<li>Summer '21 - Ling201: Intro to Linguistic Theory [syllabus](su21syll.pdf)
+<li>Summer '21 - Ling201: Intro to Linguistic Theory [syllabus](files/teaching/su21syll.pdf)
 
-<li>Spring '20 - Eng101: Expository Writing (synchronous) [student evals,](f20fgsurvey.pdf) [syllabus](f20fgsyll.pdf)
+<li>Spring '20 - Eng101: Expository Writing (synchronous) [student evals,](files/teaching/f20fgsurvey.pdf) [syllabus](files/teaching/f20fgsyll.pdf)
 
-<li>Spring '20 - Eng101: Expository Writing (asynchronous) [student evals,](f20grsurvey.pdf) [syllabus](f20grsyll.pdf)
+<li>Spring '20 - Eng101: Expository Writing (asynchronous) [student evals,](files/teaching/f20grsurvey.pdf) [syllabus](files/teaching/f20grsyll.pdf)
 
 <li>Spring '19 - Ling201: Intro to Linguistic Theory [observation report,](files/teaching/s19obs.pdf) [student evals,](files/teaching/s19survey.html) [syllabus](files/teaching/s19syll.pdf) 
 
