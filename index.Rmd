@@ -81,15 +81,15 @@ Hello, I'm Nate - a linguistics PhD student at Rutgers University. I'm originall
 ### Teaching
 
 <ul>
-<li>Summer '21 - Ling201: Intro to Linguistic Theory [syllabus](files/teaching/su21syll.pdf)
+<li>Summer '21 - Ling201: Intro to Linguistic Theory [syllabus](files/su21syll.pdf)
 
-<li>Fall '20 - Eng101: Expository Writing [student evals,](files/teaching/f20fgsurvey.pdf) [syllabus](files/teaching/f20fgsyll.pdf)
+<li>Fall '20 - Eng101: Expository Writing [student evals,](files/f20fgsurvey.pdf) [syllabus](files/f20fgsyll.pdf)
 
-<li>Fall '20 - Eng101: Expository Writing (asynchronous) [student evals,](files/teaching/f20grsurvey.pdf) [syllabus](files/teaching/f20grsyll.pdf)
+<li>Fall '20 - Eng101: Expository Writing (asynchronous) [student evals,](files/f20grsurvey.pdf) [syllabus](files/f20grsyll.pdf)
 
-<li>Spring '19 - Ling201: Intro to Linguistic Theory [observation report,](files/teaching/s19obs.pdf) [student evals,](files/teaching/s19survey.html) [syllabus](files/teaching/s19syll.pdf) 
+<li>Spring '19 - Ling201: Intro to Linguistic Theory [observation report,](files/s19obs.pdf) [student evals,](files/s19survey.html) [syllabus](files/s19syll.pdf) 
 
-<li>Fall '18 - Ling201: Intro to Linguistic Theory [observation report,](files/teaching/f18obs.pdf) [student evals](files/teaching/f18survey.html) 
+<li>Fall '18 - Ling201: Intro to Linguistic Theory [observation report,](files/f18obs.pdf) [student evals](files/f18survey.html) 
 </ul>
 
 
