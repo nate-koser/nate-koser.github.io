@@ -39,7 +39,7 @@ nate.koser@rutgers.edu
 ### About me
 
 
-Hello, I'm Nate - a linguistics PhD student at Rutgers University. I'm originally from Canton, NY. I received my undergraduate degree from SUNY Binghamton and spent 5 years in South Korea before entering the program here in New Jersey. I am interested in computational phonology. If you have any questions, you're always welcome to email me.
+Hello, I'm Nate -- a linguistics PhD student at Rutgers University. I'm originally from Canton, NY. I received my undergraduate degree from SUNY Binghamton and spent 5 years in South Korea before entering the program here in New Jersey. I am interested in computational phonology. If you have any questions, you're always welcome to email me.
 
 ### Papers
 
@@ -117,6 +117,8 @@ Hello, I'm Nate - a linguistics PhD student at Rutgers University. I'm originall
 
 <li>Fall '18 - Ling201: Intro to Linguistic Theory [observation report,](files/f18obs.pdf){target="_blank"} [student evals](files/f18survey.html){target="_blank"} 
 </ul>
+
+<a href="#top">Back to top</a>
 
 
 <br><br><br><br>
