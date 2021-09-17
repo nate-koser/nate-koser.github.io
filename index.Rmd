@@ -43,53 +43,79 @@ Hello, I'm Nate - a linguistics PhD student at Rutgers University. I'm originall
 
 ### Papers
 
+##### Journal Articles 
+
 <ul>
-<li> Dolatian, Hossep, Nate Koser, Jonathan Rawski, and Kristina Strother-Garcia (2021). <i>Computational restrictions on iterative prosodic processes.</i> Annual Meeting on Phonology 2020. [pdf](files/amp2020proc.pdf)
+<li> Koser, Nate (under review) <i>The atomic properties of stress</i>. Phonology
+</ul>
 
-<li> Koser, Nate and Adam Jardine (2020). <i>The computational nature of stress assignment.</i> Proceedings of AMP 2019. Stony Brook University. [pdf](files/amp2019proc.pdf) 
+##### Conference Proceedings
 
-<li> Koser, Nate and Adam Jardine (2019). <i>The complexity of optimizing over strictly local constraints</i>. Proceedings of PLC 43. [pdf](files/plc2019proc.pdf) 
+<ul>
 
-<li> Koser, Nate, Chris Oakden and Adam Jardine (2019). <i>Tone association and output locality in non-linear structures.</i> Supplemental proceedings of AMP 2018. [pdf](files/amp2018proceed.pdf) 
+<li> Dolatian, Hossep, Nate Koser, Jonathan Rawski, and Kristina Strother-Garcia (2021). <i>Computational restrictions on iterative prosodic processes.</i> Annual Meeting on Phonology 2020. [pdf](files/amp2020proc.pdf){target="_blank"}
 
-<li>Koser, Nate. <i>Acoustic correlates of creaky voice in Yoruba</i>. Ms., Rutgers University. [pdf](files/qp2.pdf)
+<li> Koser, Nate and Adam Jardine (2020). <i>The computational nature of stress assignment.</i> Proceedings of AMP 2019. Stony Brook University. [pdf](files/amp2019proc.pdf){target="_blank"} 
 
-<li>Koser, Nate. <i>A constraint definition language and consequences for stress assignment.</i>. Ms., Rutgers University. [pdf](files/qp1.pdf)
+<li> Koser, Nate and Adam Jardine (2019). <i>The complexity of optimizing over strictly local constraints</i>. Proceedings of PLC 43. [pdf](files/plc2019proc.pdf){target="_blank"} 
+
+<li> Koser, Nate, Chris Oakden and Adam Jardine (2019). <i>Tone association and output locality in non-linear structures.</i> Supplemental proceedings of AMP 2018. [pdf](files/amp2018proceed.pdf){target="_blank"}
+
+</ul>
+
+##### Manuscripts
+
+<ul>
+
+<li>Koser, Nate. <i>Acoustic correlates of creaky voice in Yoruba</i>. Ms., Rutgers University. [pdf](files/qp2.pdf){target="_blank"}
+
+<li>Koser, Nate. <i>A constraint definition language and consequences for stress assignment.</i>. Ms., Rutgers University. [pdf](files/qp1.pdf){target="_blank"}
 </ul>
 
 ### Presentations
 
+##### Talks
 
 <ul>
-<li> Dolatian, Hossep, Nate Koser, Jonathan Rawski, and Kristina Strother-Garcia (2021). <i>Computational restrictions on iterative prosodic processes.</i> Annual Meeting on Phonology 2020. [abstract,](files/amp2020abstract.pdf) [poster](files/amp2020poster.pdf) 
+
 
 <li> Koser, Nate (2020). <i>Bounded lookahead in iterative quantity-insensitive stress assignment</i> RULing XV. Rutgers University. [slides](files/ruling20.pdf)
 
-<li> Koser, Nate and Adam Jardine (2019). <i>Stress assignment and subsequentiality</i> AMP 2019. Stony Brook University. [slides](files/amp2019slides.pdf)
+<li> Koser, Nate and Adam Jardine (2019). <i>Stress assignment and subsequentiality</i> AMP 2019. Stony Brook University. [slides](files/amp2019slides.pdf){target="_blank"}
 
-<li> Koser, Nate (2019). <i>Creaky voice in Yoruba.</i> RULing XIV. Rutgers University. [slides](files/ruling19.pdf)
+<li> Koser, Nate (2019). <i>Creaky voice in Yoruba.</i> RULing XIV. Rutgers University. [slides](files/ruling19.pdf){target="_blank"}
 
-<li> Koser, Nate and Adam Jardine (2019). <i>The complexity of optimizing over strictly local constraints</i>. PLC 43. [slides](files/plcslides.pdf)
+<li> Koser, Nate and Adam Jardine (2019). <i>The complexity of optimizing over strictly local constraints</i>. PLC 43. [slides](files/plcslides.pdf){target="_blank"}
 
-<li> Koser, Nate and Adam Jardine (2018). <i>Strictly local patterns are closed under optimization.</i> NecPhon 2018. [slides](files/necphonslides.pdf)
+<li> Koser, Nate and Adam Jardine (2018). <i>Strictly local patterns are closed under optimization.</i> NecPhon 2018. [slides](files/necphonslides.pdf){target="_blank"}
 
-<li> Koser, Nate (2018). <i>A constraint definition language and consequences for stress assignment.</i> RULing XIII. Rutgers University. [slides](files/ruling18slides.pdf)
+<li> Koser, Nate (2018). <i>A constraint definition language and consequences for stress assignment.</i> RULing XIII. Rutgers University. [slides](files/ruling18slides.pdf){target="_blank"}
 
-<li> Koser, Nate, Chris Oakden and Adam Jardine (2018). <i>Tone association and output locality in non-linear structures.</i> AMP 2018. [abstract,](files/amp2018.pdf) [poster](files/amp2018poster.pdf) 
+
 </ul>
+
+##### Posters
+
+<ul>
+<li> Dolatian, Hossep, Nate Koser, Jonathan Rawski, and Kristina Strother-Garcia (2021). <i>Computational restrictions on iterative prosodic processes.</i> Annual Meeting on Phonology 2020. [abstract,](files/amp2020abstract.pdf){target="_blank"} [poster](files/amp2020poster.pdf){target="_blank"} 
+
+
+<li> Koser, Nate, Chris Oakden and Adam Jardine (2018). <i>Tone association and output locality in non-linear structures.</i> AMP 2018. [abstract,](files/amp2018.pdf){target="_blank"} [poster](files/amp2018poster.pdf){target="_blank"} 
+
+</ul> 
 
 ### Teaching
 
 <ul>
-<li>Summer '21 - Ling201: Intro to Linguistic Theory [syllabus](files/su21syll.pdf)
+<li>Summer '21 - Ling201: Intro to Linguistic Theory [syllabus](files/su21syll.pdf){target="_blank"}
 
-<li>Fall '20 - Eng101: Expository Writing [student evals,](files/f20fgsurvey.pdf) [syllabus](files/f20fgsyll.pdf)
+<li>Fall '20 - Eng101: Expository Writing [student evals,](files/f20fgsurvey.pdf){target="_blank"} [syllabus](files/f20fgsyll.pdf){target="_blank"}
 
-<li>Fall '20 - Eng101: Expository Writing (asynchronous) [student evals,](files/f20grsurvey.pdf) [syllabus](files/f20grsyll.pdf)
+<li>Fall '20 - Eng101: Expository Writing (asynchronous) [student evals,](files/f20grsurvey.pdf){target="_blank"} [syllabus](files/f20grsyll.pdf){target="_blank"}
 
-<li>Spring '19 - Ling201: Intro to Linguistic Theory [observation report,](files/s19obs.pdf) [student evals,](files/s19survey.html) [syllabus](files/s19syll.pdf) 
+<li>Spring '19 - Ling201: Intro to Linguistic Theory [observation report,](files/s19obs.pdf){target="_blank"} [student evals,](files/s19survey.html){target="_blank"} [syllabus](files/s19syll.pdf){target="_blank"} 
 
-<li>Fall '18 - Ling201: Intro to Linguistic Theory [observation report,](files/f18obs.pdf) [student evals](files/f18survey.html) 
+<li>Fall '18 - Ling201: Intro to Linguistic Theory [observation report,](files/f18obs.pdf){target="_blank"} [student evals](files/f18survey.html){target="_blank"} 
 </ul>
 
 
