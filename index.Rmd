@@ -46,7 +46,14 @@ Hello, I'm Nate -- a linguistics PhD student at Rutgers University. I'm original
 ##### Journal Articles 
 
 <ul>
-<li> Koser, Nate (under review) <i>The atomic properties of stress</i>. Phonology
+<li> Koser, Nate (under review). <i>The atomic properties of stress</i>. Phonology
+</ul>
+
+##### Edited Volumes
+
+<ul>
+<li> Koser, Nate (in progress). <i>What typology can tell us about computation in phonology, and vice versa. </i> In Anderson, C. and Kuznetsova, N. and Easterday, S., editors, Topics in
+Phonological Diversity. Language Science Press.
 </ul>
 
 ##### Conference Proceedings
